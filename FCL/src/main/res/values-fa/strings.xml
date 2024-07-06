@@ -1,4 +1,4 @@
-<resources>
+⁸<resources>
     <string name="app_name" translatable="false">Fold Craft Launcher</string>
 
     <string name="oauth_api_key" translatable="false">null</string>
@@ -429,11 +429,11 @@
     <string name="install_failed_install_online">شناسایی فایل ارائه شده ممکن نیست. اگر در حال نصب مود هستید، به صفحه Mods بروید.</string>
     <string name="install_failed_malformed">فایل های دانلود شده خراب هستند. می توانید سعی کنید این مشکل را با جابجایی به آینه دانلود دیگری برطرف کنید.</string>
     <string name="install_failed_optifine_conflict">نمی‌توان Fabric، OptiFine و Forge را روی Minecraft 1.13 یا بالاتر نصب کرد.</string>
-    <string name="install_failed_optifine_forge_1.17">برای نسخه Minecraft 1.17.1 یا پایین تر، Forge فقط از OptiFine H1 Pre2 یا جدیدتر پشتیبانی می کند. می توانید آنها را در تب نسخه های فوری نصب کنید.</string>
+    <string name="install_failed_optifine_forge_1.17">برای نسخه Minecraft 1.17.1 یا پایین تر، Forge فقط از OptiFine H1 Pre2 یا جدیدتر پشتیبانی می کند. می توانید آنها را در تب نسخه های اسنپشات نصب کنید.</string>
     <string name="install_failed_version_mismatch">این کتابخانه به نسخه بازی %s نیاز دارد، اما نسخه نصب شده %s است.</string>
     <string name="install_installer_change_version">نسخه %s با نسخه فعلی بازی سازگار نیست. اینجا را کلیک کنید تا آن را با نسخه دیگری جایگزین کنید یا آن را حذف کنید.</string>
     <string name="install_installer_choose">نسخه %s خود را انتخاب کنید</string>
-    <string name="install_installer_depend">%s نیاز دارد</string>
+    <string name="install_installer_depend">%s نیاز دارد به</string>
     <string name="install_installer_fabric" translatable="false">Fabric</string>
     <string name="install_installer_fabric_api" translatable="false">Fabric API</string>
     <string name="install_installer_fabric_api_warning">هشدار: Fabric API یک مد است و در فهرست مدهای نمونه بازی نصب خواهد شد. لطفاً دایرکتوری کاری بازی را تغییر ندهید، در غیر این صورت Fabric API کار نخواهد کرد. اگر می خواهید این تنظیمات را تغییر دهید، باید آن را دوباره نصب کنید.</string>
@@ -449,47 +449,47 @@
     <string name="install_installer_optifine" translatable="false">OptiFine</string>
     <string name="install_installer_quilt" translatable="false">Quilt</string>
     <string name="install_installer_quilt_api" translatable="false">QSL/QFAPI</string>
-    <string name="install_modpack">یک Modpack نصب کنید</string>
+    <string name="install_modpack">نصب مادپک</string>
     <string name="install_new_game">یک نمونه جدید اضافه کنید</string>
     <string name="install_new_game_already_exists">این نمونه از قبل وجود دارد. لطفا از نام دیگری استفاده کنید.</string>
     <string name="install_new_game_malformed">نام نامعتبر</string>
     <string name="install_success">با موفقیت نصب شد.</string>
 
-    <string name="jar_execute">Jar را اجرا کنید</string>
-    <string name="jar_execute_custom_args">با args سفارشی اجرا کنید</string>
-    <string name="jar_executor_crash_title">مجری کوزه سقوط کرد</string>
+    <string name="jar_execute">اجرای فایل .jar</string>
+    <string name="jar_execute_custom_args">اجرا با آرگومان های کاستوم</string>
+    <string name="jar_executor_crash_title">اجرا کننده .jar کرش کرد</string>
     <string name="jar_executor_crash_reason">تحلیل دلیل خرابی Jar Executor اکنون پشتیبانی نمی‌شود.</string>
 
-    <string name="launch">راه اندازی</string>
+    <string name="launch">اجرا</string>
     <string name="launch_error_java">شما از یک نسخه جاوا منسوخ استفاده می کنید، آیا مطمئن هستید که می خواهید ادامه دهید؟</string>
     <string name="launch_error_java_auto">انتخاب خودکار</string>
-    <string name="launch_error_java_continue">ادامه هید</string>
-    <string name="launch_failed">راه اندازی نشد</string>
+    <string name="launch_error_java_continue">ادامه</string>
+    <string name="launch_failed">اجرا ناموفق</string>
     <string name="launch_failed_download_library">دانلود کتابخانه %s ممکن نیست.</string>
 
-    <string name="launch_state_dependencies">رفع وابستگی ها</string>
+    <string name="launch_state_dependencies">درحال دریافت وابستگی ها</string>
     <string name="launch_state_modpack">دانلود وابستگی ها</string>
     <string name="launch_state_java">بررسی نسخه جاوا</string>
     <string name="launch_state_logging_in">ورود به سیستم در</string>
-    <string name="launch_state_waiting_launching">منتظر راه اندازی بازی هستیم</string>
-    <string name="launch_state_done">تکمیل راه اندازی</string>
+    <string name="launch_state_waiting_launching">در انتظار اجرای بازی</string>
+    <string name="launch_state_done">تکمیل اجرا</string>
 
-    <string name="menu_controls">کنترل کننده</string>
-    <string name="menu_controls_current">کنترل کننده جریان</string>
+    <string name="menu_controls">کنترلر</string>
+    <string name="menu_controls_current">کنترلر فعلی</string>
     <string name="menu_controls_edit_mode">حالت ویرایش</string>
     <string name="menu_controls_show_boundary">نمایش مرزهای مشاهده</string>
     <string name="menu_controls_hide_all">پنهان کردن همه نماها</string>
     <string name="menu_controls_auto_fit">موقعیت تناسب خودکار</string>
     <string name="menu_controls_auto_fit_dist">فاصله موقعیت مناسب خودکار</string>
     <string name="menu_controls_groups">مشاهده گروه ها</string>
-    <string name="menu_controls_manage">مدیریت کنید</string>
+    <string name="menu_controls_manage">مدیریت</string>
     <string name="menu_controls_current_view_group">گروه نمایش فعلی</string>
-    <string name="menu_controls_add_button">دکمه افزودن</string>
-    <string name="menu_controls_add_direction">کنترل کننده جهت را اضافه کنید</string>
-    <string name="menu_controls_add_view_button">اضافه کردن</string>
+    <string name="menu_controls_add_button">افزودن دکمه</string>
+    <string name="menu_controls_add_direction">افزودن کنترلر جهت</string>
+    <string name="menu_controls_add_view_button">افزودن</string>
     <string name="menu_controls_style">سبک ها</string>
     <string name="menu_controls_button_style">سبک های دکمه</string>
-    <string name="menu_controls_direction_style">سبک های کنترل کننده جهت</string>
+    <string name="menu_controls_direction_style">سبک های کنترلر جهت</string>
 
     <string name="menu_control_base">تنظیم اولیه</string>
     <string name="menu_control_button">دکمه</string>
@@ -501,54 +501,54 @@
     <string name="menu_control_style">تنظیم سبک</string>
     <string name="menu_control_style_add">اضافه کردن سبک</string>
     <string name="menu_control_style_edit">ویرایش سبک</string>
-    <string name="menu_control_view_group_add">افزودن گروه مشاهده</string>
-    <string name="menu_control_view_group_delete">آیا مطمئن هستید که این گروه مشاهده را حذف می کنید؟</string>
+    <string name="menu_control_view_group_add">افزودن گروه نما</string>
+    <string name="menu_control_view_group_delete">آیا مطمئن هستید که این گروه نما را حذف می کنید؟</string>
     <string name="menu_control_view_group_name">نام</string>
-    <string name="menu_control_view_group_visibility">دید اولیه</string>
-    <string name="menu_control_view_group_exist">گروه مشاهده از قبل وجود دارد</string>
-    <string name="menu_control_view_group_empty">لطفا ابتدا نام گروه مشاهده را پر کنید</string>
+    <string name="menu_control_view_group_visibility">قابل مشاهده کردن گروه نما</string>
+    <string name="menu_control_view_group_exist">گروه نما از قبل وجود دارد</string>
+    <string name="menu_control_view_group_empty">لطفا ابتدا نام گروه نما را پر کنید</string>
     <string name="menu_control_view_group_visible">قابل رویت</string>
     <string name="menu_control_view_group_invisible">نامرئی</string>
 
     <string name="menu_settings">تنظیمات</string>
     <string name="menu_settings_debug">اشکال زدایی</string>
-    <string name="menu_settings_disable_be_gesture">ژست پیشرفته را غیرفعال کنید</string>
-    <string name="menu_settings_disable_gesture">ژست را غیرفعال کنید</string>
+    <string name="menu_settings_disable_be_gesture">غیرفعال کردن اشاره‌گر پیشرفته</string>
+    <string name="menu_settings_disable_gesture">غیرفعال کردن اشاره‌گر</string>
     <string name="menu_settings_force_exit">خروج اجباری</string>
-    <string name="menu_settings_force_exit_button">خارج شوید</string>
-    <string name="menu_settings_force_exit_msg">آیا مطمئن هستید که به اجبار خروج می کنید؟</string>
+    <string name="menu_settings_force_exit_button">خروج</string>
+    <string name="menu_settings_force_exit_msg">آیا مطمئن هستید که به اجبار خارج می کنید؟</string>
     <string name="menu_settings_function">تابع</string>
-    <string name="menu_settings_gesture">ژست</string>
-    <string name="menu_settings_gesture_mode">حالت اشاره</string>
-    <string name="menu_settings_gesture_mode_build">ساختن</string>
-    <string name="menu_settings_gesture_mode_fight">مبارزه کردن</string>
+    <string name="menu_settings_gesture">اشاره‌گر</string>
+    <string name="menu_settings_gesture_mode">حالت اشاره‌گر</string>
+    <string name="menu_settings_gesture_mode_build">حالت ساخت و ساز</string>
+    <string name="menu_settings_gesture_mode_fight">حالت مبارزه</string>
     <string name="menu_settings_gesture_current">حالت فعلی %s است</string>
     <string name="menu_settings_gyro">ژیروسکوپ</string>
     <string name="menu_settings_gyro_sensitivity">حساسیت ژیروسکوپی</string>
     <string name="menu_settings_lock_view">قفل نمای منو</string>
-    <string name="menu_settings_mouse">موش</string>
+    <string name="menu_settings_mouse">ماوس</string>
     <string name="menu_settings_mouse_mode">حالت ماوس</string>
     <string name="menu_settings_mouse_mode_click">کلیک</string>
     <string name="menu_settings_mouse_mode_slide">اسلاید</string>
-    <string name="menu_settings_mouse_sensitivity">حساسیت موشواره</string>
+    <string name="menu_settings_mouse_sensitivity">حساسیت ملوس</string>
     <string name="menu_settings_mouse_size">اندازه ماوس</string>
     <string name="menu_settings_gamepad">گیم پد</string>
     <string name="menu_settings_gamepad_reset_mapper">ResetMapper</string>
-    <string name="menu_settings_gamepad_reset">بازنشانی کنید</string>
-    <string name="menu_settings_gamepad_deadzone">منطقه مرده</string>
-    <string name="menu_settings_gamepad_aimzone">AimAssistZone</string>
+    <string name="menu_settings_gamepad_reset">بازنشانی</string>
+    <string name="menu_settings_gamepad_deadzone">منطقه غیرعملگرا</string>
+    <string name="menu_settings_gamepad_aimzone">منطقه کمک کننده AIM</string>
     <string name="menu_settings_multiplayer">منوی چند نفره</string>
-    <string name="menu_settings_multiplayer_button">باز کن</string>
+    <string name="menu_settings_multiplayer_button">باز کردن</string>
     <string name="menu_settings_quick_input">ورودی سریع</string>
-    <string name="menu_settings_quick_input_button">مدیریت کنید</string>
+    <string name="menu_settings_quick_input_button">مدیریت</string>
     <string name="menu_settings_send_key">ارسال کلید</string>
     <string name="menu_settings_send_key_button">ارسال</string>
     <string name="menu_settings_soft_keyboard_adjust">DisableSoftKeyboardAutoAdjust</string>
-    <string name="menu_settings_item_bar_scale">ItemBarScale</string>
+    <string name="menu_settings_item_bar_scale">سایز آیتم بار</string>
     <string name="menu_settings_show_log">نمایش گزارش</string>
 
     <string name="message_cancelled">عملیات لغو شد</string>
-    <string name="message_copy">کپی با موفقیت!</string>
+    <string name="message_copy">کپی موفق!</string>
     <string name="message_doing">لطفا صبر کنید</string>
     <string name="message_downloading">در حال دانلود</string>
     <string name="message_error">خطا</string>
@@ -568,36 +568,36 @@
     <string name="modpack_description">شرح</string>
     <string name="modpack_download">Modpack را دانلود کنید</string>
     <string name="modpack_enter_name">یک نام برای این modpack وارد کنید.</string>
-    <string name="modpack_export">صادرات مودپک</string>
-    <string name="modpack_export_as">صادرات Modpack به عنوان…</string>
+    <string name="modpack_export">خارج‌سازی مودپک</string>
+    <string name="modpack_export_as">خارج‌سازی Modpack به عنوان…</string>
     <string name="modpack_file_api">پیشوند URL Modpack</string>
     <string name="modpack_files_blueprints">طرح های BuildCraft</string>
-    <string name="modpack_files_config">تنظیمات مد</string>
+    <string name="modpack_files_config">تنظیمات ماد</string>
     <string name="modpack_files_dumps">فایل خروجی اشکال زدایی NEI</string>
     <string name="modpack_files_fclversion_cfg">فایل پیکربندی لانچر</string>
-    <string name="modpack_files_liteconfig">فایل پیکربندی مود</string>
-    <string name="modpack_files_mods">مدها</string>
+    <string name="modpack_files_liteconfig">فایل پیکربندی ماد</string>
+    <string name="modpack_files_mods">مادها</string>
     <string name="modpack_files_mods_voxelmods">گزینه های VoxelMods</string>
     <string name="modpack_files_options_txt">فایل تنظیمات Minecraft</string>
-    <string name="modpack_files_optionsshaders_txt">فایل تنظیمات Shaders</string>
-    <string name="modpack_files_resourcepacks">بسته های منابع/بافت</string>
-    <string name="modpack_files_saves">بازی ذخیره می کند</string>
+    <string name="modpack_files_optionsshaders_txt">فایل تنظیمات شیدر‌ها</string>
+    <string name="modpack_files_resourcepacks">بسته های ریسورس/تکسچر</string>
+    <string name="modpack_files_saves">سیو های بازی</string>
     <string name="modpack_files_scripts">فایل پیکربندی MineTweaker</string>
     <string name="modpack_files_servers_dat">فایل لیست سرور</string>
-    <string name="modpack_install">Modpack %s را نصب کنید</string>
-    <string name="modpack_installing">در حال نصب Modpack</string>
-    <string name="modpack_introduction">مودپک‌های CurseForge، Modrinth، MultiMC و MCBBS در حال حاضر پشتیبانی می‌شوند.</string>
-    <string name="modpack_invalid">modpack نامعتبر است، می توانید آن را دوباره دانلود کنید.</string>
-    <string name="modpack_mismatched_type">نوع Modpack مطابقت ندارد، نمونه فعلی از نوع %s است، اما نمونه ارائه شده از نوع %s است.</string>
-    <string name="modpack_name">نام Modpack</string>
-    <string name="modpack_not_a_valid_name">نام Modpack نامعتبر است</string>
+    <string name="modpack_install">نصب مادپک %s</string>
+    <string name="modpack_installing">در حال نصب مادپک</string>
+    <string name="modpack_introduction">مادپک‌های CurseForge، Modrinth، MultiMC و MCBBS در حال حاضر پشتیبانی می‌شوند.</string>
+    <string name="modpack_invalid">مادپک نامعتبر است، می توانید آن را دوباره دانلود کنید.</string>
+    <string name="modpack_mismatched_type">نوع مادپک مطابقت ندارد، نمونه فعلی از نوع %s است، اما نمونه ارائه شده از نوع %s است.</string>
+    <string name="modpack_name">نام مادپک</string>
+    <string name="modpack_not_a_valid_name">نام مادپک نامعتبر است</string>
     <string name="modpack_origin">منبع</string>
     <string name="modpack_origin_url">وب سایت رسمی</string>
     <string name="modpack_origin_mcbbs">MCBBS</string>
     <string name="modpack_origin_mcbbs_prompt">شناسه پست</string>
-    <string name="modpack_scan">تجزیه فهرست مودپک</string>
-    <string name="modpack_task_install">Modpack را نصب کنید</string>
-    <string name="modpack_task_install_error">قادر به شناسایی این modpack نیست. ما در حال حاضر فقط از modpack های Curse، Modrinth، MultiMC و MCBBS پشتیبانی می کنیم.</string>
+    <string name="modpack_scan">تجزیه فهرست مادپک</string>
+    <string name="modpack_task_install">نصب مادپک</string>
+    <string name="modpack_task_install_error">قادر به شناسایی این مادپک نیستیم. ما در حال حاضر فقط از modpack های کرس‌فورج، Modrinth، MultiMC و MCBBS پشتیبانی می کنیم.</string>
     <string name="modpack_task_install_will">شما می خواهید modpack را نصب کنید:</string>
     <string name="modpack_type_curse">لعنت</string>
     <string name="modpack_type_curse_tolerable_error">دانلود وابستگی ها ممکن نیست، می توانید با راه اندازی این نمونه بازی، دانلود را ادامه دهید.</string>
