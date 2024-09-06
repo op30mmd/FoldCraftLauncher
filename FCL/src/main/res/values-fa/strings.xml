@@ -37,7 +37,7 @@
     <string name="about_developer" translatable="false">FCL-Team</string>
     <string name="about_sponsor">حامی مالی</string>
     <string name="about_source">متن باز</string>
-    <string name="about_desc">Fold Craft Launcher یک راه‌انداز Minecraft Android است که به کاربر امکان می‌دهد Minecraft: Java Edition را در دستگاه Android راه‌اندازی کند.\n\nFold Craft Launcher توسط FCL-Team توسعه داده شده است.\n\nبیشترین ویژگی‌های Fold Craft Launcher بر اساس HMCLCore اصلاح شده‌اند.\n\nبرنامه برخی از کدهای PojavLauncher و Boat را قرض می گیرد و نقل قول می کند، بنابراین اگر می خواهید این برنامه را توزیع کنید، لطفاً مجوز GPL-v3 را دنبال کنید.</string>
+    <string name="about_desc">فولد کرفت لانچر یک راه‌انداز ماینکرافت جاوا است که به کاربر امکان می‌دهد نسخه جاوا ماینکرافت را در دستگاه اندروید راه‌اندازی کند.\n\nفولد کرفت لانچر توسط FCL-Team توسعه داده شده است.\n\nبیشترین ویژگی‌های فولد کرفت لانچر بر اساس HMCLCore اصلاح شده‌اند.\n\nبرنامه برخی از کدهای پوجاو لانچر و Boat را استفاده میکند و نقل قول می کند، بنابراین اگر می خواهید این برنامه را توزیع کنید، لطفاً مجوز GPL-v3 را دنبال کنید.</string>
 
     <string name="account_add_server">افزودن سرور احراز هویت</string>
     <string name="account_add_server_url">آدرس سرور</string>
@@ -45,7 +45,7 @@
     <string name="account_cape">کِیپ</string>
     <string name="account_create">ایجاد حساب کاربری</string>
     <string name="account_create_offline">ایجاد حساب آفلاین</string>
-    <string name="account_create_microsoft">یک حساب مایکروسافت ایجاد کنید</string>
+    <string name="account_create_microsoft">ایجاد حساب مایکروسافت</string>
     <string name="account_create_external">ایجاد حساب خارجی</string>
     <string name="account_create_username">نام کاربری</string>
     <string name="account_create_password">کلمه عبور</string>
@@ -57,18 +57,18 @@
     <string name="account_injector_server">سرور احراز هویت</string>
     <string name="account_login">وارد شدن</string>
     <string name="account_methods_offline">حساب آفلاین</string>
-    <string name="account_methods_offline_name_invalid">در شرایط عادی، نام کاربری بازی فقط می‌تواند شامل کاراکترها، اعداد و زیرخط انگلیسی باشد و طول آن نمی‌تواند از 16 کاراکتر تجاوز کند.\nبرخی از نام‌های کاربری قانونی: Tungsten, Tungsten_123;\nبرخی از نام‌های کاربری غیرقانونی: Exam ple, Exam-a_%%%, Tungsten_hello_world_hello_world .\nاگر فکر می کنید که یک مد یا افزونه مربوطه در سمت سرور برای حذف این محدودیت وجود دارد، می توانید این هشدار را نادیده بگیرید.</string>
-    <string name="account_methods_yggdrasil">حساب Mojang</string>
+    <string name="account_methods_offline_name_invalid">در شرایط عادی، نام کاربری بازی فقط می‌تواند شامل کاراکترها، اعداد و زیرخط انگلیسی باشد و طول آن نمی‌تواند از ۱۶ کاراکتر بیشتر باشد.\nبرخی از نام‌های کاربری قانونی: Tungsten, Tungsten_123;\nبرخی از نام‌های کاربری غیرمجاز: Exam ple, Exam-a_%%%, Tungsten_hello_world_hello_world .\nاگر فکر می کنید که یک مد یا افزونه مربوطه در سمت سرور برای حذف این محدودیت وجود دارد، می توانید این هشدار را نادیده بگیرید.</string>
+    <string name="account_methods_yggdrasil">حساب موجانگ</string>
     <string name="account_methods_authlib_injector">حساب خارجی</string>
     <string name="account_methods_microsoft">حساب کاربری مایکروسافت</string>
     <string name="account_failed">بازخوانی حساب انجام نشد</string>
     <string name="account_failed_expired">اعتبارنامه منقضی شده است، شما باید حساب خود را حذف کرده و دوباره وارد شوید.</string>
-    <string name="account_failed_no_character">هیچ شخصیتی به این حساب پیوند داده نشده است.</string>
+    <string name="account_failed_no_character">هیچ اسکینی به این حساب پیوند داده نشده است.</string>
     <string name="account_failed_connect_authentication_server">تماس با سرورهای احراز هویت ممکن نیست، ممکن است اتصال اینترنت شما قطع باشد.</string>
-    <string name="account_failed_connect_injector_server">اتصال به سرور احراز هویت امکان پذیر نیست. لطفاً شبکه خود را بررسی کنید و مطمئن شوید که URL صحیح را وارد کرده اید.</string>
+    <string name="account_failed_connect_injector_server">اتصال به سرور احراز هویت امکان پذیر نیست. لطفاً شبکه خود را بررسی کنید و مطمئن شوید که لینک صحیح را وارد کرده اید.</string>
     <string name="account_failed_server_disconnected">دسترسی به سرور احراز هویت امکان پذیر نیست. می توانید به صورت آفلاین وارد شوید یا سعی کنید دوباره وارد شوید.</string>
     <string name="account_failed_server_response_malformed">پاسخ سرور نامعتبر است، سرور احراز هویت ممکن است کار نکند.</string>
-    <string name="account_failed_invalid_credentials">رمز عبور نادرست یا نرخ محدود است، لطفاً بعداً دوباره امتحان کنید.</string>
+    <string name="account_failed_invalid_credentials">رمز عبور نادرست یا ریت لیمیت است، لطفاً بعداً دوباره امتحان کنید.</string>
     <string name="account_failed_invalid_token">لطفا سعی کنید دوباره وارد سیستم شوید.</string>
     <string name="account_failed_invalid_password">رمز عبور نامعتبر</string>
     <string name="account_failed_migration">حساب شما باید به یک حساب مایکروسافت منتقل شود. اگر قبلاً این کار را انجام داده اید، به جای آن باید دوباره به حساب مایکروسافت منتقل شده خود وارد شوید.</string>
